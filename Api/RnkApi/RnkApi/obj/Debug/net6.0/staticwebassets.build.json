@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "RFJeZVagkfRmfFJ74Dy1ZOpq3ilk9n4N/VvcBqA/+GQ=",
+  "Source": "RnkApi",
+  "BasePath": "_content/RnkApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RnkApi\\wwwroot",
+      "Source": "RnkApi",
+      "ContentRoot": "E:\\work\\2022\\Rnk Project\\Api\\RnkApi\\RnkApi\\wwwroot\\",
+      "BasePath": "_content/RnkApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
